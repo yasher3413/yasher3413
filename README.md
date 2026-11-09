@@ -1,88 +1,58 @@
-<p align="center">
-  <img src="assets/header.svg" alt="YASH GANDHI, LIVE. builder · tab hoarder · depressed sports fan" width="100%">
-</p>
+<img src="assets/rink.svg" alt="Yash Gandhi, written in marker on a hockey coach's whiteboard. Builds agents, browsers and weird little hardware. Tab hoarder. Leafs and Cowboys fan." width="100%">
 
-<p align="center">
-  <a href="https://yashgandhi.org"><img src="https://img.shields.io/badge/front_office-yashgandhi.org-ff7a1f?style=for-the-badge&labelColor=0b1020" alt="website"></a>
-  <a href="https://www.linkedin.com/in/yashgandhi34/"><img src="https://img.shields.io/badge/contract_talks-linkedin-ff5a1f?style=for-the-badge&labelColor=0b1020" alt="LinkedIn"></a>
-  <a href="https://x.com/yash_gandhi34"><img src="https://img.shields.io/badge/postgame_rants-@yash__gandhi34-ffb21f?style=for-the-badge&labelColor=0b1020" alt="X"></a>
-  <img src="https://komarev.com/ghpvc/?username=yasher3413&label=ATTENDANCE&color=ff5a1f&style=for-the-badge" alt="profile views">
-</p>
+I build things that probably should have stayed side projects: an LLM agent that lives on a Flipper Zero, a browser for people who refuse to close tabs, a tracker for Canadian federal bills. Leafs all winter, Cowboys every Sunday. I have not known joy in some time.
 
-<p align="center"><sub>🎙️ <i>"...and he's opened ANOTHER tab, folks. you cannot teach that."</i></sub></p>
-
----
-
-## 📋 the scouting report
-
-<p align="center">
-  <img src="assets/scouting-report.svg" alt="Scouting report: 87 OVR. Shipping velocity 94, side projects started 99, finished 62, browser tabs open ERR, sleep 12, game-day emotional stability 3, will build an agent for it 100." width="100%">
-</p>
-
-## 🏟️ the roster
-
-| | player | pos | stat line | the commentary |
-|:-:|---|---|---|---|
-| ⭐ | **[flipperclaw](https://github.com/yasher3413/flipperclaw)** | C++ · ESP32 | LLM agent in your pocket, NFC / Sub-GHz / IR tools | franchise player. put a ReAct loop on a 128×64 screen and dared anyone to stop him |
-| ⭐ | **[twig](https://github.com/yasher3413/twig)** | TypeScript | lightweight browser for tab hoarders | built a whole browser instead of closing tabs. respect the commitment |
-| ⭐ | **[tabled](https://github.com/yasher3413/tabled)** | TypeScript | Canadian federal bills → summaries, status, MP votes | reads legislation so you don't have to. civic MVP |
-| 🔁 | [personal-agent](https://github.com/yasher3413/personal-agent) | TypeScript | SMS personal assistant | texts you back faster than your friends do |
-| 🔁 | [SEA-TRIP](https://github.com/yasher3413/SEA-TRIP) | TypeScript | AI chief of staff for one (1) trip | overengineering is a lifestyle |
-| 🔁 | [claw-code](https://github.com/yasher3413/claw-code) | Rust | harness tools, mid-rewrite to Rust | 🦀 as is tradition |
-| 🔁 | [transaction-processing-system](https://github.com/yasher3413/transaction-processing-system) | Go | event-driven txn pipeline | the serious one. doesn't talk to the media |
-| 🪑 | [Mini-Bree](https://github.com/yasher3413/Mini-Bree) | Python | earned-wage-access MVP | Next.js + FastAPI two-way player |
-| 🪑 | [Recruting-OS](https://github.com/yasher3413/Recruting-OS) | n8n | job posting → fit score → spreadsheet | scouts the scouts |
-| 🪑 | [fantasy-football-draft-aid](https://github.com/yasher3413/fantasy-football-draft-aid) | — | draft-day cheat code | did not help. we don't talk about it |
-
-<sub>⭐ starter · 🔁 rotation · 🪑 bench (healthy scratch, emotionally)</sub>
-
-## 📺 play-by-play
-
-<sub>auto-updated every few hours by a GitHub Action with the emotional range of a local radio color guy</sub>
-
-<!--PBP:START-->
-- `NOV 05` 🏈 **quick push** into [tabled](https://github.com/yasher3413/tabled). *the bench is on its feet.*
-- `NOV 05` 🚩 **clears the penalty:** issue #1 on [tabled](https://github.com/yasher3413/tabled). *he's been doing this all season, folks.*
-- `NOV 05` 🚩 **flags a foul:** issue #1 on [tabled](https://github.com/yasher3413/tabled). *the bench is on its feet.*
-- `NOV 05` 👀 **scouting the competition:** stars [TesPlay](https://github.com/rdvnit/TesPlay). *and he didn't even close a tab.*
-- `OCT 18` 🏈 **quick push** into [field-guide](https://github.com/krishgandhi/field-guide). *the bench is on its feet.*
-- `OCT 13` 👀 **scouting the competition:** stars [freellmapi](https://github.com/tashfeenahmed/freellmapi). *the bench is on its feet.*
-<!--PBP:END-->
-
-## 🐍 film room
-
-<sub>my contribution graph getting eaten alive, much like my team's secondary every sunday</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasher3413/yasher3413/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasher3413/yasher3413/output/snake.svg">
-  <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/yasher3413/yasher3413/output/snake.svg">
-</picture>
-
-## 🎤 postgame presser
-
-<details>
-<summary><b>click to take questions from the media</b></summary>
+[yashgandhi.org](https://yashgandhi.org) · [linkedin](https://www.linkedin.com/in/yashgandhi34/) · [x](https://x.com/yash_gandhi34)
 
 <br>
 
-> **Q: Why build a browser?**
-> closing tabs was never an option. we move forward. all 300 of us.
+<img src="assets/field.svg" alt="Play 34, Ship It. The offensive line is TypeScript, C++, Rust, Go and Python. twig runs a go route, personal-agent runs a slant, tabled runs an out, flipperclaw stays in the pocket. The defense: sleep, scope creep, rate limits, the NFC East, game 7 nerves." width="100%">
 
-> **Q: Is the LLM on the Flipper actually useful?**
-> it told me my team would make the playoffs. so, no. but it's very confident.
+### First line
 
-> **Q: What's your stack?**
-> TypeScript on offense, C++ when it gets physical, Rust when I want to feel something, Go when the adults are watching.
+**[flipperclaw](https://github.com/yasher3413/flipperclaw)** &nbsp;A pocket LLM agent. Flipper Zero for the screen and buttons, an ESP32-S3 running the agent loop, with NFC, Sub-GHz and IR as tools.<br>
+**[twig](https://github.com/yasher3413/twig)** &nbsp;A lightweight browser for heavy tab users. Cheaper than therapy.<br>
+**[tabled](https://github.com/yasher3413/tabled)** &nbsp;Every federal bill in Canada, summarized, with its status and how each MP voted.
 
-> **Q: How are you holding up after this season?**
-> *(adjusts mic)* ... *(stares into the distance)* ... *(leaves the podium)*
+### Second line
 
-> **Q: Any message for recruiters?**
-> my DMs are open. my tabs are open. everything is open. please.
+**[personal-agent](https://github.com/yasher3413/personal-agent)** &nbsp;A personal assistant you text, wired into the productivity tools I actually use.<br>
+**[claw-code](https://github.com/yasher3413/claw-code)** &nbsp;An agent harness with extra tools, partway through a rewrite in Rust.<br>
+**[transaction-processing-system](https://github.com/yasher3413/transaction-processing-system)** &nbsp;Event-driven transaction processing in Go. The serious one. Doesn't talk to the media.<br>
+**[SEA-TRIP](https://github.com/yasher3413/SEA-TRIP)** &nbsp;An AI chief of staff built to plan exactly one trip.
+
+### Healthy scratches
+
+[Mini-Bree](https://github.com/yasher3413/Mini-Bree) · [Recruting-OS](https://github.com/yasher3413/Recruting-OS) · [fantasy-football-draft-aid](https://github.com/yasher3413/fantasy-football-draft-aid) (do not ask how the season went) · [pm-portfolio-monitorhub](https://github.com/yasher3413/pm-portfolio-monitorhub)
+
+### Play-by-play
+
+<!--PBP:START-->
+- *pregame. the booth is still finding its headset.*
+<!--PBP:END-->
+
+<sub>Called automatically from my public GitHub activity every few hours. The counters on the whiteboard update too, sadly.</sub>
+
+### Postgame
+
+<details>
+<summary>Take questions from the media</summary>
+
+<br>
+
+**Why build a browser?**<br>
+Closing tabs was never on the table. We go forward, all three hundred of us.
+
+**Is the LLM on the Flipper actually useful?**<br>
+It told me the Leafs would get out of the second round. So no. It is very confident though.
+
+**What's the stack?**<br>
+TypeScript on most downs. C++ when it gets physical. Rust when I want to feel something. Go when an adult is watching.
+
+**Leafs or Cowboys, which one hurts more?**<br>
+*(long pause)* Next question.
+
+**Anything for recruiters?**<br>
+My DMs are open. My tabs are open. Everything is open.
 
 </details>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/season_record-0W_·_∞L_·_18_repos-0b1020?style=flat-square&labelColor=ff5a1f" alt="season record">
-</p>

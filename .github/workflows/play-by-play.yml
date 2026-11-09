@@ -23,8 +23,8 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
       - name: commit if the booth has news
         run: |
-          if git diff --quiet; then echo "nothing new"; exit 0; fi
+          if git diff --quiet && git diff --cached --quiet; then echo "nothing new"; exit 0; fi
           git config user.name "the booth"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "📺 play-by-play update"
+          git add -A && git commit -m "play-by-play update"
           git push
