@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="400" viewBox="0 0 880 400" role="img" aria-label="Scouting report for Yash Gandhi">
+  <title>SCOUTING REPORT: GANDHI #34</title>
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff5a1f"/>
+      <stop offset="1" stop-color="#ffb21f"/>
+    </linearGradient>
+    <linearGradient id="bad" x1="0" x2="1">
+      <stop offset="0" stop-color="#e11d2e"/>
+      <stop offset="1" stop-color="#ff5a7a"/>
+    </linearGradient>
+    <linearGradient id="jersey" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7a1f"/>
+      <stop offset="1" stop-color="#e2450f"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="880" height="400" rx="14"/></clipPath>
+    <style>
+      .f{font-family:'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:900}
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .b{font-weight:700}
+      @keyframes pop{0%{transform:scale(0) rotate(-20deg)}70%{transform:scale(1.15) rotate(6deg)}100%{transform:scale(1) rotate(-4deg)}}
+      @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}
+      @keyframes glitch{0%,92%,100%{opacity:1}93%{opacity:.2}95%{opacity:1}97%{opacity:.4}}
+      @keyframes sway{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(2deg)}}
+      .stamp{transform-box:fill-box;transform-origin:center;animation:pop .5s cubic-bezier(.3,1.4,.5,1) 2.6s both}
+      .row{animation:in .4s ease-out both}
+      .err{animation:glitch 2.4s infinite}
+      .jersey{transform-box:fill-box;transform-origin:50% 0;animation:sway 4s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="880" height="400" fill="#0b1020"/>
+    <rect width="880" height="54" fill="#05070f"/>
+    <rect y="54" width="880" height="2" fill="url(#bar)"/>
+    <text x="28" y="36" class="f" font-size="20" fill="#fff" letter-spacing="1">SCOUTING REPORT</text>
+    <text x="250" y="35" class="m b" font-size="12" fill="#8b97c7">// classified · do not show to recruiters (or do, idc)</text>
+
+    <!-- OVR badge -->
+    <g transform="translate(780,10)">
+      <rect width="78" height="36" rx="6" fill="url(#bar)"/>
+      <text x="39" y="27" text-anchor="middle" class="f" font-size="22" fill="#0b1020">87<tspan font-size="11" dx="3">OVR</tspan></text>
+    </g>
+
+    <!-- jersey -->
+    <g transform="translate(40,82)">
+      <g class="jersey">
+        <path d="M70 0 L120 0 Q130 18 150 18 Q170 18 180 0 L230 0 L270 40 L240 82 L222 70 L222 210 L78 210 L78 70 L60 82 L30 40 Z" transform="translate(-30,0) scale(.85)" fill="url(#jersey)" stroke="#05070f" stroke-width="3"/>
+        <text x="96" y="76" text-anchor="middle" class="f" font-size="16" fill="#0b1020" letter-spacing="2">GANDHI</text>
+        <text x="96" y="148" text-anchor="middle" class="f" font-size="68" fill="#fff" stroke="#0b1020" stroke-width="3" paint-order="stroke">34</text>
+      </g>
+      <g class="m" font-size="12" fill="#c9d2f5">
+        <text x="0" y="204"><tspan fill="#8b97c7">POS </tspan>full-stack / hardware goblin</text>
+        <text x="0" y="222"><tspan fill="#8b97c7">HT  </tspan>¯\_(ツ)_/¯</text>
+        <text x="0" y="240"><tspan fill="#8b97c7">STAT</tspan> day-to-day (emotionally)</text>
+        <text x="0" y="258"><tspan fill="#8b97c7">DRAFT</tspan> undrafted, signed by caffeine</text>
+      </g>
+    </g>
+
+    <!-- attribute bars -->
+    <g transform="translate(300,84)" class="m b" font-size="12">
+      <!-- row helper: label y, track at y+8, value right -->
+      <g class="row" style="animation-delay:.2s">
+        <text x="0" y="0" fill="#e8ecff">SHIPPING VELOCITY</text>
+        <rect x="0" y="8" width="460" height="12" rx="6" fill="#1a2240"/>
+        <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#bar)"><animate attributeName="width" from="0" to="432" dur="1s" begin=".3s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+        <text x="540" y="19" text-anchor="end" fill="#ffb21f">94</text>
+      </g>
+      <g transform="translate(0,40)"><g class="row" style="animation-delay:.35s">
+        <text x="0" y="0" fill="#e8ecff">SIDE PROJECTS STARTED</text>
+        <rect x="0" y="8" width="460" height="12" rx="6" fill="#1a2240"/>
+        <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#bar)"><animate attributeName="width" from="0" to="455" dur="1s" begin=".45s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+        <text x="540" y="19" text-anchor="end" fill="#ffb21f">99</text>
+      </g></g>
+      <g transform="translate(0,80)"><g class="row" style="animation-delay:.5s">
+        <text x="0" y="0" fill="#e8ecff">SIDE PROJECTS FINISHED</text>
+        <rect x="0" y="8" width="460" height="12" rx="6" fill="#1a2240"/>
+        <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#bar)"><animate attributeName="width" from="0" to="285" dur="1s" begin=".6s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+        <text x="540" y="19" text-anchor="end" fill="#ffb21f">62</text>
+      </g></g>
+      <g transform="translate(0,120)"><g class="row" style="animation-delay:.65s">
+        <text x="0" y="0" fill="#e8ecff">BROWSER TABS OPEN</text>
+        <rect x="0" y="8" width="460" height="12" rx="6" fill="#1a2240"/>
+        <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#bar)"><animate attributeName="width" from="0" to="498" dur="1.3s" begin=".75s" fill="freeze" calcMode="spline" keySplines=".5 0 .2 1"/></rect>
+        <text class="err" x="540" y="19" text-anchor="end" fill="#ff5a7a">ERR</text>
+      </g></g>
+      <g transform="translate(0,160)"><g class="row" style="animation-delay:.8s">
+        <text x="0" y="0" fill="#e8ecff">SLEEP SCHEDULE</text>
+        <rect x="0" y="8" width="460" height="12" rx="6" fill="#1a2240"/>
+        <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#bad)"><animate attributeName="width" from="0" to="55" dur="1s" begin=".9s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+        <text x="540" y="19" text-anchor="end" fill="#ff5a7a">12</text>
+      </g></g>
+      <g transform="translate(0,200)"><g class="row" style="animation-delay:.95s">
+        <text x="0" y="0" fill="#e8ecff">EMOTIONAL STABILITY (GAME DAY)</text>
+        <rect x="0" y="8" width="460" height="12" rx="6" fill="#1a2240"/>
+        <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#bad)"><animate attributeName="width" from="0" to="14" dur="1s" begin="1.05s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+        <text x="540" y="19" text-anchor="end" fill="#ff5a7a">3</text>
+      </g></g>
+      <g transform="translate(0,240)"><g class="row" style="animation-delay:1.1s">
+        <text x="0" y="0" fill="#e8ecff">WILL BUILD AN AGENT FOR IT</text>
+        <rect x="0" y="8" width="460" height="12" rx="6" fill="#1a2240"/>
+        <rect x="0" y="8" width="0" height="12" rx="6" fill="url(#bar)"><animate attributeName="width" from="0" to="460" dur="1s" begin="1.2s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+        <text x="540" y="19" text-anchor="end" fill="#ffb21f">100</text>
+      </g></g>
+    </g>
+
+    <!-- footer -->
+    <rect y="356" width="880" height="44" fill="#05070f"/>
+    <text x="28" y="383" class="m b" font-size="13" fill="#8b97c7">PRO COMP <tspan fill="#e8ecff">a browser tab that learned C++ and got a Flipper Zero</tspan></text>
+
+    <!-- stamp -->
+    <g class="stamp">
+      <rect x="672" y="363" width="184" height="30" rx="5" fill="#05070f" stroke="#e11d2e" stroke-width="2.5"/>
+      <text x="764" y="384" text-anchor="middle" class="f" font-size="14" fill="#e11d2e" letter-spacing="2">FRANCHISE TAG</text>
+    </g>
+  </g>
+</svg>
