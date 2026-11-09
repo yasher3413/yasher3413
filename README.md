@@ -42,11 +42,11 @@
 
 <!--PBP:START-->
 - `NOV 05` 🏈 **quick push** into [tabled](https://github.com/yasher3413/tabled). *the bench is on its feet.*
-- `NOV 05` 🔀 **trick play:** new branch `claude/nice-heisenberg-ilmboe` on [tabled](https://github.com/yasher3413/tabled). *the booth is speechless.*
 - `NOV 05` 🚩 **clears the penalty:** issue #1 on [tabled](https://github.com/yasher3413/tabled). *he's been doing this all season, folks.*
 - `NOV 05` 🚩 **flags a foul:** issue #1 on [tabled](https://github.com/yasher3413/tabled). *the bench is on its feet.*
 - `NOV 05` 👀 **scouting the competition:** stars [TesPlay](https://github.com/rdvnit/TesPlay). *and he didn't even close a tab.*
 - `OCT 18` 🏈 **quick push** into [field-guide](https://github.com/krishgandhi/field-guide). *the bench is on its feet.*
+- `OCT 13` 👀 **scouting the competition:** stars [freellmapi](https://github.com/tashfeenahmed/freellmapi). *the bench is on its feet.*
 <!--PBP:END-->
 
 ## 🐍 film room
