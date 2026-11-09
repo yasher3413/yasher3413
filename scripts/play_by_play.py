@@ -11,6 +11,7 @@ from datetime import datetime
 USER = os.environ.get("GH_USER", "yasher3413")
 README = os.path.join(os.path.dirname(__file__), "..", "README.md")
 MAX_PLAYS = 6
+BOT_BRANCH_PREFIXES = ("claude/", "dependabot/", "renovate/", "copilot/")
 
 COLOR = [
     "crowd goes mild.",
@@ -46,6 +47,9 @@ def describe(e):
     p = e.get("payload") or {}
     t = e["type"]
 
+    if short == USER:  # don't narrate edits to this profile repo itself
+        return None
+
     if t == "PushEvent":
         n = p.get("size") or len(p.get("commits") or []) or 0
         if n > 1:
@@ -54,7 +58,7 @@ def describe(e):
     if t == "CreateEvent":
         if p.get("ref_type") == "repository":
             return "📝", f"**signs a rookie:** {link} joins the roster"
-        if p.get("ref_type") == "branch":
+        if p.get("ref_type") == "branch" and not str(p.get("ref", "")).startswith(BOT_BRANCH_PREFIXES):
             return "🔀", f"**trick play:** new branch `{p.get('ref')}` on {link}"
         if p.get("ref_type") == "tag":
             return "🏷️", f"**tags `{p.get('ref')}`** on {link}"
