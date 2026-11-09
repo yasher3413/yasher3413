@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://yashgandhi.org"><img src="https://img.shields.io/badge/front_office-yashgandhi.org-ff7a1f?style=for-the-badge&labelColor=0b1020" alt="website"></a>
+  <a href="https://www.linkedin.com/in/yashgandhi34/"><img src="https://img.shields.io/badge/contract_talks-linkedin-ff5a1f?style=for-the-badge&labelColor=0b1020" alt="LinkedIn"></a>
   <a href="https://x.com/yash_gandhi34"><img src="https://img.shields.io/badge/postgame_rants-@yash__gandhi34-ffb21f?style=for-the-badge&labelColor=0b1020" alt="X"></a>
   <img src="https://komarev.com/ghpvc/?username=yasher3413&label=ATTENDANCE&color=ff5a1f&style=for-the-badge" alt="profile views">
 </p>
