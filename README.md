@@ -33,7 +33,6 @@ I build things that probably should have stayed side projects: an LLM agent that
 - `NOV 05` takes a penalty, issue #1 in [tabled](https://github.com/yasher3413/tabled). *the rink goes quiet. in a good way.*
 - `NOV 05` scouting [TesPlay](https://github.com/rdvnit/TesPlay). *he's been doing this all season, folks.*
 - `OCT 18` takes a shift in [field-guide](https://github.com/krishgandhi/field-guide). *refs are reviewing it. it stands.*
-- `OCT 13` scouting [freellmapi](https://github.com/tashfeenahmed/freellmapi). *refs are reviewing it. it stands.*
 <!--PBP:END-->
 
 <sub>Called automatically from my public GitHub activity every few hours. The counters on the whiteboard update too, sadly.</sub>
