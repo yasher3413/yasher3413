@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="390" viewBox="0 0 880 390" role="img" aria-label="Yash Gandhi, drawn on a hockey coach's whiteboard. Builds agents, browsers and weird little hardware. Days since a Leafs Cup: 21,745. Days since the Cowboys played in an NFC title game: 11,261.">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="390" viewBox="0 0 880 390" role="img" aria-label="Yash Gandhi, drawn on a hockey coach's whiteboard. Builds agents, browsers and weird little hardware. Days since a Leafs Cup: 21,746. Days since the Cowboys played in an NFC title game: 11,262.">
   <title>Yash Gandhi</title>
   <defs>
     <style>
@@ -73,9 +73,9 @@
 
     <!-- the misery counters -->
     <g transform="rotate(-1 60 270)">
-      <text x="62" y="270" class="mk" font-size="28" fill="#1d3fa6"><tspan id="leafs-days">21,745</tspan></text>
+      <text x="62" y="270" class="mk" font-size="28" fill="#1d3fa6"><tspan id="leafs-days">21,746</tspan></text>
       <text x="152" y="268" class="hd" font-size="17" fill="#1c1d22">days since a Leafs Cup</text>
-      <text x="62" y="310" class="mk" font-size="28" fill="#1c1d22"><tspan id="cowboys-days">11,261</tspan></text>
+      <text x="62" y="310" class="mk" font-size="28" fill="#1c1d22"><tspan id="cowboys-days">11,262</tspan></text>
       <text x="152" y="308" class="hd" font-size="17" fill="#1c1d22">days since a Cowboys NFC title game</text>
     </g>
 
