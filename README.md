@@ -28,11 +28,12 @@ I build things that probably should have stayed side projects: an LLM agent that
 ### Play-by-play
 
 <!--PBP:START-->
+- `SEP 30` [Puckquake](https://github.com/yasher3413/Puckquake) goes public. presser at four. *somebody check on his sleep schedule.*
+- `NOV 09` takes a shift in [Puckquake](https://github.com/yasher3413/Puckquake). *textbook. absolutely textbook.*
 - `NOV 05` takes a shift in [tabled](https://github.com/yasher3413/tabled). *somebody check on his sleep schedule.*
 - `NOV 05` kills the penalty, closes issue #1 in [tabled](https://github.com/yasher3413/tabled). *crowd goes mild.*
 - `NOV 05` takes a penalty, issue #1 in [tabled](https://github.com/yasher3413/tabled). *the rink goes quiet. in a good way.*
 - `NOV 05` scouting [TesPlay](https://github.com/rdvnit/TesPlay). *he's been doing this all season, folks.*
-- `OCT 18` takes a shift in [field-guide](https://github.com/krishgandhi/field-guide). *refs are reviewing it. it stands.*
 <!--PBP:END-->
 
 <sub>Called automatically from my public GitHub activity every few hours. The counters on the whiteboard update too, sadly.</sub>
