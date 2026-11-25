@@ -28,9 +28,9 @@ I build things that probably should have stayed side projects: an LLM agent that
 ### Play-by-play
 
 <!--PBP:START-->
+- `NOV 24` takes a shift in [Puckquake](https://github.com/yasher3413/Puckquake). *the rink goes quiet. in a good way.*
 - `NOV 18` takes a shift in [openclaw](https://github.com/yasher3413/openclaw). *somewhere, a Leafs fan weeps. it's him.*
 - `SEP 30` [Puckquake](https://github.com/yasher3413/Puckquake) goes public. presser at four. *somebody check on his sleep schedule.*
-- `NOV 09` takes a shift in [Puckquake](https://github.com/yasher3413/Puckquake). *textbook. absolutely textbook.*
 - `NOV 05` takes a shift in [tabled](https://github.com/yasher3413/tabled). *somebody check on his sleep schedule.*
 - `NOV 05` kills the penalty, closes issue #1 in [tabled](https://github.com/yasher3413/tabled). *crowd goes mild.*
 - `NOV 05` takes a penalty, issue #1 in [tabled](https://github.com/yasher3413/tabled). *the rink goes quiet. in a good way.*
